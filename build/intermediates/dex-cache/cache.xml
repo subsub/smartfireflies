@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\subkh\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\subkh\AndroidStudioProjects\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d509a2452f67bc83507cd7cd4dce9c79957b5256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\subkh\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\subkh\AndroidStudioProjects\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e7a4aa7636e37ee4f361692a4aa690fadd3812d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\subkh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\subkh\AndroidStudioProjects\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_8185a8d36d85830c725ab827c2dbb132dfd9e8ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\subkh\AndroidStudioProjects\android\app\libs\processing-core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d3c9f05f1948fe01ff80a3a2edbb891f6c6741d">
+        <dex dex="C:\Users\subkh\AndroidStudioProjects\android\app\build\intermediates\pre-dexed\debug\processing-core_ff3a6eafec27960003b0dc91af69ed47898793f7.jar" />
+    </item>
+
+</items>

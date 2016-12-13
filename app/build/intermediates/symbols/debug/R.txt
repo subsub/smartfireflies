@@ -1,0 +1,3 @@
+int drawable icon 0x7f020000
+int id fragment 0x7f040000
+int layout main 0x7f030000
